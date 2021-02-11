@@ -1,8 +1,13 @@
-Steps to make the website run
--> cd front
+*Steps to make the website run
+*Frontend
+'''
+   cd front
    npm install
    npm start
-
--> cd back
+'''
+*Backend
+'''
+   cd back
    npm install
    npm run server	
+'''
