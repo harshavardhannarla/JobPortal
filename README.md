@@ -1,13 +1,14 @@
-*Steps to make the website run
-*Frontend
-'''
+# Job Application Portal
+
+* Frontend
+```
    cd front
    npm install
    npm start
-'''
-*Backend
-'''
+```
+* Backend
+```
    cd back
    npm install
    npm run server	
-'''
+```
